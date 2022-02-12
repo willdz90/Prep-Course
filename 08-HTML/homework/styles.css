@@ -1,0 +1,35 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/33/be/58/33be5834cc023df94731ad3fa70ae412.jpg");
+}
+
+div{
+    margin: 0 auto;
+}
+
+#divClass{
+    padding: 20px;
+    height: 150px;
+    width:  500px;
+}
+
+h1{
+    color: blue;
+}
+
+img{
+    width: 400px;
+    height: 250px;
+}
+
+#thirdDiv{
+    padding: 50px;
+    height: 600px;
+    width: 500px;
+    background-color: aquamarine;
+    border: 3px blue solid;
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
