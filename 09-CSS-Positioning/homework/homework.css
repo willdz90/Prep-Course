@@ -43,7 +43,10 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 /* Ejercicio 5: */
 
 /* Acá va tu código */
-
+#ejercicioCinco{
+    display: flexbox;
+    margin: 0 auto;
+}
 
 
 /* Ejercicio 6. */
